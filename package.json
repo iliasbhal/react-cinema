@@ -3,9 +3,12 @@
   "version": "0.0.1",
   "description": "Component and animation library for react & react-native",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iliasbhal/react-cinema.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ilias Bhallil <ilias.bhal@gmail.com>",
   "license": "MIT"
 }
