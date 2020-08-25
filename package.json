@@ -1,0 +1,11 @@
+{
+  "name": "react-cinema",
+  "version": "0.0.1",
+  "description": "Component and animation library for react & react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilias Bhallil <ilias.bhal@gmail.com>",
+  "license": "MIT"
+}
